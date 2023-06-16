@@ -19,3 +19,5 @@ This repository contains two flood datasets: Flood Berlin and Red River. These d
 - **Link:** [Red River Dataset](https://drive.google.com/drive/folders/145zLPp_3PniWPx7DTbKmuVxLbxXso1fR?usp=sharing)
 - **Description:** The Red River dataset provides information about flood events in the Red River region. 
 
+### MOCKUP 
+-**Link:** [Mockup](https://www.figma.com/proto/Q3k7CntdFpLIcVRuYPxjdg/NAXA-Generic-Web---V1.0?node-id=5070-3128&scaling=min-zoom&page-id=5050%3A1039&starting-point-node-id=5070%3A2144)
